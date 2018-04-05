@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="linux-gn5m" id="0" name="QuoteServiceIntegrationSpec" package="qotd" skipped="0" tests="1" time="0.252" timestamp="2018-04-03T03:49:32">
+      <properties />
+
+      <testcase classname="qotd.QuoteServiceIntegrationSpec" name="test something" time="0.24" />
+
+      <system-out><![CDATA[--Output from test something--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test something--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="linux-gn5m" id="1" name="QuoteServiceSpec" package="qotd" skipped="0" tests="1" time="2.443" timestamp="2018-04-03T03:49:15">
+      <properties />
+
+      <testcase classname="qotd.QuoteServiceSpec" name="test something" time="2.358" />
+
+      <system-out><![CDATA[--Output from test something--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test something--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
